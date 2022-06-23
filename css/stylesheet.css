@@ -94,6 +94,12 @@ li.logo a{
     color: black;
 }
 
+li.logo img {
+width: 30px;
+height: 30px;
+object-fit: cover;
+}
+
 .footer-basic {
     padding: 40px 0;
     background-color: #eeeeee;
