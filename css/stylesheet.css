@@ -17,7 +17,7 @@ body {
 header {
     text-align: center;
     height: 20vh;
-    background: url(https://source.unsplash.com/GKN6rpDr0EI/960x640) bottom center no-repeat;
+    background: white bottom center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
