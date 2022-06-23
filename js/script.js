@@ -2,7 +2,6 @@
 const nav = document.querySelector('#main');
 const navTopCoord = nav.offsetTop;
 
-
 function fixNav() {
     if(window.scrollY >= navTopCoord) {
         document.body.style.paddingTop = nav.offsetHeight + 'px';
