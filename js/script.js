@@ -29,4 +29,3 @@ function typeWriter() {
 }
 
 window.addEventListener('load', typeWriter);
-window.addEventListener('scroll', typeWriter);
